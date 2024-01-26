@@ -1,5 +1,0 @@
-﻿  ParaleloArreglos.cpp
-c1xx : warning C4199: no se admite la búsqueda de nombres en dos fases para OpenMP, C++/CLI o C++/CX. Use /Zc:twoPhase-
-d:\tec de monterrey\especialidad en inteligencia artificial aplicada\tercer trimestre\cómputo en la nube\semana 3\proyectosomp\paraleloarreglos\paraleloarreglos\paraleloarreglos.cpp(21): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-d:\tec de monterrey\especialidad en inteligencia artificial aplicada\tercer trimestre\cómputo en la nube\semana 3\proyectosomp\paraleloarreglos\paraleloarreglos\paraleloarreglos.cpp(22): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-  ParaleloArreglos.vcxproj -> D:\Tec de Monterrey\Especialidad en Inteligencia Artificial Aplicada\Tercer Trimestre\Cómputo en la nube\Semana 3\ProyectosOMP\ParaleloArreglos\Debug\ParaleloArreglos.exe
